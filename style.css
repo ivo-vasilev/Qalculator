@@ -1,0 +1,15 @@
+QPushButton {
+    border:1px solid #ff6666;
+    padding:16px;
+    background:transparent;
+    font-size:18px;
+}
+QLineEdit {
+    background:#ffe6e6;
+    border: 1px solid #ff6666;
+    padding:16px;
+    font-size:22px;
+}
+QLabel {
+    font-size:14px;
+}

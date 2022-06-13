@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>img/qalc.png</file>
+        <file>img/qalculator.ico</file>
+    </qresource>
+    <qresource>
+        <file>style.css</file>
+    </qresource>
+</RCC>
